@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Aishwarya Babu
 
-<!--
-**AiswaryaBabu3/AiswaryaBabu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Python | Full Stack Developer 👩‍💻
 
-Here are some ideas to get you started:
+I’m a Software Developer passionate about building web applications
+and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- FastAPI
+- React
+- JavaScript
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Redis
+- Git & GitHub
+
+---
+
+## 💻 About Me
+
+- 👩‍💻 Software Developer
+- 🐍 Backend & Full Stack Development
+- 🚀 Building scalable applications
+- 🌱 Always learning something new
+
+---
+
+## 📌 Projects
+
+### 🚀 Project Name
+Short description about your project.
+
+### 🚀 Project Name
+Short description about your project.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
