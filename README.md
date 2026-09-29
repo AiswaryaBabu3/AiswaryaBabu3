@@ -1,13 +1,10 @@
 <div align="center">
 
-  <!-- Dynamic Waving Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=180&section=header&text=Aiswarya%20Babu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Developer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20GenAI&descSize=16&descAlignY=72&descAlign=50" width="100%" alt="Aiswarya Babu Banner" />
+  <h1>Hey there, I'm Aiswarya Babu 👋</h1>
 
-  <br/>
-
-  <!-- Fully Encoded Smooth Typing SVG -->
+  <!-- Smooth, Full-Width Responsive Typing SVG (No clipping) -->
   <a href="https://github.com/Aiswaryababu3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Aiswarya+Babu%21;Senior+Software+Developer+%40+Aagnia+Technologies;Architecting+Fault-Tolerant+Microservices;Building+LLM+Workflows+%26+Multi-Tenant+SaaS;Passionate+about+High-Throughput+Real-Time+APIs" alt="Aiswarya Babu Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Senior+Software+Developer+%40+Aagnia+Technologies;Backend+%26+Distributed+Systems+Specialist;GenAI+%26+LLM+Application+Engineer;FastAPI+%7C+Python+%7C+React+%7C+Next.js+%7C+Redis" alt="Aiswarya Babu Typing SVG" />
   </a>
 
   <br/><br/>
@@ -228,8 +225,9 @@ class SeniorEngineer:
   </a>
 
   <br/><br/>
-
-  <!-- Matching Gradient Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+  
+  <p align="center">
+    ⚡ <i>"Code is like humor. When you have to explain it, it’s bad."</i> ⚡
+  </p>
 
 </div>
