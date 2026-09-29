@@ -1,21 +1,26 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/Aiswaryababu3">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Aiswarya+Babu+✨;Senior+Software+Developer;Backend+%26+Distributed+Systems;GenAI+%26+LLM+Architecture" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Waving Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=180&section=header&text=Aiswarya%20Babu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Developer%20%7C%20Backend%20%26%20Distributed%20Systems%20%7C%20GenAI&descSize=16&descAlignY=72&descAlign=50" width="100%" alt="Aiswarya Babu Banner" />
 
   <br/>
 
-  <!-- Profile Badges & Views -->
+  <!-- Fully Encoded Smooth Typing SVG -->
+  <a href="https://github.com/Aiswaryababu3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Aiswarya+Babu%21;Senior+Software+Developer+%40+Aagnia+Technologies;Architecting+Fault-Tolerant+Microservices;Building+LLM+Workflows+%26+Multi-Tenant+SaaS;Passionate+about+High-Throughput+Real-Time+APIs" alt="Aiswarya Babu Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile Badges & Real-Time Views -->
   <p align="center">
-    <a href="https://linkedin.com/in/aiswarya-babu-ab49b0278">
+    <a href="https://linkedin.com/in/aiswarya-babu-ab49b0278" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:aiswaryababu544@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/Aiswaryababu3">
+    <a href="https://github.com/Aiswaryababu3" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Aiswaryababu3&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
@@ -26,7 +31,7 @@
   </p>
 
   <p align="center">
-    📍 <i>Coimbatore, Tamil Nadu, India</i> • 💼 <i>Currently at Aagnia Technologies</i>
+    📍 <i>Coimbatore, Tamil Nadu, India</i> &nbsp;•&nbsp; 💼 <i>Currently at Aagnia Technologies</i>
   </p>
 
 </div>
@@ -63,7 +68,7 @@ class SeniorEngineer:
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <!-- Dynamic Unified Skill Icons -->
+  <!-- Dynamic Unified Skill Icons Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,postgres,mongodb,redis,react,nextjs,tailwind,docker,gitlab,git,bash,postman&perline=8&theme=dark" alt="Skill Icons" />
   </a>
@@ -185,20 +190,22 @@ class SeniorEngineer:
 
 <div align="center">
 
+  <!-- GitHub Profile Summary Cards -->
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aiswaryababu3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiswaryababu3&theme=tokyonight" alt="GitHub Profile Summary" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryababu3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiswaryababu3&theme=tokyonight" alt="Repos per Language" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswaryababu3&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Aiswaryababu3&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
 
 </div>
 
@@ -222,6 +229,7 @@ class SeniorEngineer:
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=100&section=footer" width="100%" />
+  <!-- Matching Gradient Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
