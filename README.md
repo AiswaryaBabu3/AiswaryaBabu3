@@ -1,152 +1,227 @@
 <div align="center">
 
-# Hi there, I'm Aiswarya Babu 👋
-### Senior Software Developer | Backend & Distributed Systems | GenAI & Full Stack
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/Aiswaryababu3">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Aiswarya+Babu+✨;Senior+Software+Developer;Backend+%26+Distributed+Systems;GenAI+%26+LLM+Architecture" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiswarya-babu-ab49b0278)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiswaryababu3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryababu544@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+  <br/>
 
-<p align="center">
-  <em>Passionate about engineering scalable backend architectures, multi-tenant SaaS platforms, event-driven microservices, and AI-powered applications.</em>
-</p>
+  <!-- Profile Badges & Views -->
+  <p align="center">
+    <a href="https://linkedin.com/in/aiswarya-babu-ab49b0278">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:aiswaryababu544@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/Aiswaryababu3">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Aiswaryababu3&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  </p>
 
----
+  <p align="center">
+    🚀 <b>Senior Software Developer</b> crafting fault-tolerant backend architectures, event-driven microservices, and production-grade LLM applications.
+  </p>
 
-</div>
+  <p align="center">
+    📍 <i>Coimbatore, Tamil Nadu, India</i> • 💼 <i>Currently at Aagnia Technologies</i>
+  </p>
 
-## 💫 About Me
-
-- 🔭 **Currently Building:** High-throughput microservices, real-time event systems, and LLM-integrated platforms at **Aagnia Technologies**.
-- 💡 **Core Expertise:** Python (FastAPI, Asyncio), TypeScript, React, Next.js, Redis Pub/Sub, and PostgreSQL / MongoDB.
-- 🤖 **AI & LLM Workflows:** Designing rubric-based LLM evaluators (GPT-4o, Claude, Gemini), context-injected dynamic chatbots, RAG pipelines, and automated token/cost accounting.
-- ⚡ **Domain Experience:** Algorithmic & Quantitative Trading infrastructure, EdTech & Online Examination ecosystems, and multi-tenant SaaS.
-- 🌱 **Continuous Learning:** Scalable cloud architectures, event streaming, and agentic AI systems.
-
----
-
-## 🛠️ Technical Skills
-
-<details open>
-<summary><b>Languages & Core</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Backend & Distributed Systems</b></summary>
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA814?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST-APIs-005571?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>GenAI & LLM Engineering</b></summary>
-<br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI%20(GPT--4o)-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG & Context Injection](https://img.shields.io/badge/RAG%20%26%20Context%20Injection-2563EB?style=flat-square)
-![Structured JSON Output](https://img.shields.io/badge/Structured%20Output-10B981?style=flat-square)
-![Token & Cost Accounting](https://img.shields.io/badge/LLM%20Cost%20Tracking-7C3AED?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>Frontend & Visualization</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React%2018%2F19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square&logo=reactflow&logoColor=white)
-![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Databases, Caching & DevOps</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB%20(Motor)-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis%20(Cache%20%26%20Pub%2FSub)-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe%20API-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Key Projects & Architecture Highlights
-
-### 🎓 [Everest Tutoring](https://github.com/Aiswaryababu3) — AI-Powered Online Examination & Learning Ecosystem
-> *Full-stack EdTech platform featuring automated grading, multi-tenancy, and proctoring.*
-- **Automated Rubric Evaluation:** Built an essay and writing grading pipeline using GPT-4o with structured JSON parsing, validation, and automated fallback handling.
-- **Centralized LLM Accounting:** Engineered token-level accounting tracking prompt tokens, completion tokens, model usage, USD expenditures, and dynamic agent routing.
-- **Academic Chatbot ("Elliot"):** Created an interactive syllabus-aware tutor with real-time context injection from student assessment analytics and weak areas.
-- **Audit & Proctoring:** Integrated `rrweb` session replay, MathLive, KaTeX, Fabric.js, and automated Google Meet bots using Playwright.
-- **Multi-Tenant SaaS:** Implemented subdomain-based tenant isolation with Role-Based Access Control (RBAC) and Stripe billing.
-
-### 📈 [Invetaa](https://github.com/Aiswaryababu3) — Algorithmic & Quantitative Trading Brokerage Platform
-> *Distributed microservices trading engine designed for high-throughput market execution.*
-- **4-Microservice Architecture:** Engineered decoupled services: Algo Engine, Order Management System (OMS), Backtesting Service, and Webhook Consumer.
-- **Order Management & Routing:** Automated order routing, Stop-Loss, Take-Profit, Trailing SL, and real-time margin validation via Fyers API & WebSockets.
-- **Vectorized Backtesting Engine:** Built historical strategy simulation with Pandas and NumPy for P&L, drawdown, and risk metrics.
-- **Event-Driven Pub/Sub:** Used Redis Pub/Sub for inter-service communication, streaming live ticks and broker updates in real-time.
-- **Visual Strategy Builder:** Developed an interactive node-based drag-and-drop trading strategy builder using React Flow and financial charting with Apache ECharts.
-
-### 📅 [Everest Consultation & Booking Platform](https://github.com/Aiswaryababu3)
-> *High-performance scheduling and consultation platform built with Next.js App Router.*
-- Implemented hybrid SSR/SSG patterns for SEO and sub-second page performance.
-- Automated billing workflows, invoicing, and bookkeeping reconciliation integrating Stripe and Xero Node SDK.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiswaryababu3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aiswarya's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryababu3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswaryababu3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 Get In Touch
+### ⚡ Quick Snapshot
 
-- **LinkedIn:** [linkedin.com/in/aiswarya-babu-ab49b0278](https://linkedin.com/in/aiswarya-babu-ab49b0278)
-- **Email:** [aiswaryababu544@gmail.com](mailto:aiswaryababu544@gmail.com)
-- **GitHub:** [@Aiswaryababu3](https://github.com/Aiswaryababu3)
-- **Location:** Coimbatore, Tamil Nadu, India
+```python
+class SeniorEngineer:
+    def __init__(self):
+        self.name = "Aiswarya Babu"
+        self.role = "Senior Software Developer"
+        self.experience = "2+ Years in Production Systems"
+        self.core_domains = [
+            "High-Throughput Backend Microservices",
+            "Event-Driven Architectures & Pub/Sub",
+            "GenAI / LLM Pipelines (RAG & Token Accounting)",
+            "Algorithmic Trading & Multi-Tenant SaaS"
+        ]
+        self.stack = {
+            "backend": ["Python", "FastAPI", "Asyncio", "SQLModel", "Node.js"],
+            "ai_llm": ["OpenAI GPT-4o", "Claude 3.5", "Gemini", "Structured Outputs"],
+            "frontend": ["TypeScript", "React 19", "Next.js 16", "Tailwind CSS"],
+            "data_cache": ["PostgreSQL", "MongoDB", "Redis Pub/Sub"]
+        }
+
+    def current_mission(self):
+        return "Architecting resilient, self-healing platforms & LLM-powered ecosystems."
+```
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <sub>Designed with ❤️ by Aiswarya Babu</sub>
+  <!-- Dynamic Unified Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,postgres,mongodb,redis,react,nextjs,tailwind,docker,gitlab,git,bash,postman&perline=8&theme=dark" alt="Skill Icons" />
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🧠 AI, LLM & Agentic Systems</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI%20(GPT--4o)-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Context%20Injection%20%2F%20RAG-2563EB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Structured%20JSON%20Output-059669?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Token%20%26%20Cost%20Tracking-7C3AED?style=flat-square"/>
+      <br/>
+      <small>• Automated rubric essay evaluation & dynamic educational chatbots ("Elliot")<br/>• Centralized token tracking, model routing & prompt engineering</small>
+    </td>
+    <td width="50%">
+      <b>⚙️ Backend, Microservices & Streaming</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI%20(Asyncio)-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis%20Pub%2FSub-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/SQLModel-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy%202.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+      <br/>
+      <small>• High-throughput Order Management Systems (OMS) & real-time streaming<br/>• Multi-tenant schema isolation, RBAC & Playwright automation bots</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🎨 Modern Web & Real-Time UIs</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%2018%2F19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square&logo=reactflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white"/>
+      <br/>
+      <small>• Next.js App Router (SSR/SSG), node-based drag & drop visual strategy builders<br/>• Real-time financial dashboards and proctored examination interfaces</small>
+    </td>
+    <td width="50%">
+      <b>📦 Data, DevOps & Third-Party Integrations</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe%20%2F%20Fyers%20API-635BFF?style=flat-square"/>
+      <br/>
+      <small>• Automated CI/CD pipelines, containerization, static code analysis<br/>• Brokerage APIs (Fyers), Stripe billing webhooks, and Xero invoicing SDK</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Engineering Highlights
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎓 Everest Tutoring</h3>
+      <p align="center"><b>AI-Powered Exam & EdTech Ecosystem</b></p>
+      <ul>
+        <li><b>Rubric Grading:</b> Automated writing evaluator powered by GPT-4o with structured JSON outputs and fallback retries.</li>
+        <li><b>LLM Cost Accounting:</b> Centralized token tracker across prompt/completion tokens, model usage, and USD expenditure.</li>
+        <li><b>AI Tutor "Elliot":</b> Dynamic chatbot with context injection from weak topics and performance analytics.</li>
+        <li><b>Playwright Meet Bot:</b> Automated bot for Google Meet session capture, presence, and persistence.</li>
+        <li><b>Multi-Tenancy:</b> Subdomain isolation and granular RBAC.</li>
+      </ul>
+      <p align="center">
+        <code>FastAPI</code> • <code>PostgreSQL</code> • <code>React</code> • <code>GPT-4o</code> • <code>Docker</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📈 Invetaa Platform</h3>
+      <p align="center"><b>Algorithmic Trading & Brokerage Engine</b></p>
+      <ul>
+        <li><b>4-Microservice System:</b> Algo Engine, Order Management System (OMS), Backtesting, and Webhook Consumer.</li>
+        <li><b>Automated OMS:</b> SL, TP, Trailing Stop-Loss, and margin validations via Fyers Trading API & WebSockets.</li>
+        <li><b>Vectorized Backtesting:</b> High-speed historical simulations using Pandas and NumPy for P&L and risk metrics.</li>
+        <li><b>Pub/Sub Bus:</b> Inter-service streaming of live market ticks and order status via Redis.</li>
+        <li><b>Visual Strategy Builder:</b> Drag-and-drop node graph with React Flow and Apache ECharts.</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>FastAPI</code> • <code>Redis</code> • <code>MongoDB</code> • <code>React Flow</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📅 Everest Booking</h3>
+      <p align="center"><b>Consultation & Invoicing Platform</b></p>
+      <ul>
+        <li><b>Next.js App Router:</b> Hybrid SSR & SSG architecture for lightning-fast tutor scheduling pages.</li>
+        <li><b>FinTech Integration:</b> End-to-end payment reconciliation and automated invoicing with Stripe & Xero Node SDK.</li>
+        <li><b>Real-time Sync:</b> Webhooks processing instant confirmation and calendar reservations.</li>
+      </ul>
+      <p align="center">
+        <code>Next.js 16</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Prisma</code> • <code>Stripe</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Activity & GitHub Metrics
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aiswaryababu3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswaryababu3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiswaryababu3&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/aiswarya-babu-ab49b0278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aiswaryababu544@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Aiswaryababu3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=100&section=footer" width="100%" />
+
 </div>
